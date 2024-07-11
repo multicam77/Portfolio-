@@ -1,0 +1,113 @@
+﻿  CubeGLEW.cpp
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\Angel.h(64,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\Shape.h(66,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\Shape.h(67,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\Shape.h(128,10): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(29,2): warning C4091: 'typedef ': ignored on left of 'Sphere' when no variable is declared
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(61,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(61,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(61,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(65,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(65,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(65,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(66,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(66,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(66,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(67,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(67,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(67,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(68,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(70,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(70,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(70,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(71,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(71,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(71,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(72,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(72,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(72,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(73,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(77,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(77,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(78,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(78,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(78,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(79,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(79,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(79,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(80,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(82,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(82,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(82,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(83,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(83,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(83,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(84,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(84,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(84,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(85,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(87,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(87,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(87,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(88,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(88,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(88,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(89,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(89,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(89,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(90,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(93,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(93,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(94,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(95,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(95,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(95,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(98,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(98,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(98,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(99,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(99,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(99,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(100,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(100,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(100,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(101,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(298,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(306,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(307,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(308,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(309,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(310,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(311,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(325,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(327,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(328,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(330,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(335,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(336,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(340,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(341,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(347,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(349,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(350,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(352,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(357,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(358,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(362,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(363,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(497,44): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(515,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(534,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(534,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(534,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(570,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camco\Desktop\FInalCompG\CubeGLEW\FirstApp\CubeGLEW.cpp(571,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  FirstApp.vcxproj -> C:\Users\camco\Desktop\FInalCompG\CubeGLEW\Debug\CubeGLEW.exe
